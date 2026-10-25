@@ -6,4 +6,4 @@
 - index.html
 - style.css
 ## 公開URL
-(第７回で記入します。)
+https://s-9123737433.github.io/my-website/
