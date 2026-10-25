@@ -1,4 +1,4 @@
-# my-wabsite
+# my-website
 
 放送大学　面接授業「GitHubによる開発」で作成している自己紹介サイトです。
 
